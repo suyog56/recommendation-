@@ -60,8 +60,8 @@ def main():
             st.error("Invalid Username")
             # st.button("Home") 
             
-        st.write("## Thank you for Visiting \nProject by Suyog Hole") 
-        st.markdown("<h1 style='text-align: right; color: #d7e3fc; font-size: small;'><a href='https://github.com/suyog56recommendation'>Looking for Source Code?</a></h1>", unsafe_allow_html=True            
+        #st.write("## Thank you for Visiting \nProject by Suyog Hole") 
+        #st.markdown("<h1 style='text-align: right; color: #d7e3fc; font-size: small;'><a href='https://github.com/suyog56recommendation'>Looking for Source Code?</a></h1>", unsafe_allow_html=True            
 
 if __name__ == "__main__":
     main()
